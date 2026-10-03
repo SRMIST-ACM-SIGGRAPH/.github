@@ -2,7 +2,7 @@
 
 **Pushing the boundaries of interactive media, design, and technology.**
 
-[![Website](https://img.shields.io/badge/Website-Visit_Us-blue?style=for-the-badge&logo=google-chrome)](https://srmacmsiggraph.vercel.app)
+[![Website](https://img.shields.io/badge/Website-Visit_Us-blue?style=for-the-badge&logo=google-chrome)](https://srmacmsiggraph.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow_Us-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/srmist-acm-siggraph-student-chapter)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow_Us-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/srm_acm_siggraph)
 [![Email](https://img.shields.io/badge/Email-Contact_Us-D14836?style=for-the-badge&logo=gmail)](mailto:srmacmsiggraph@gmail.com)
